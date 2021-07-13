@@ -1,6 +1,4 @@
-# UiPath
-
-Basics
+# UiPath Basics
 
 1.Variable
 2.Data Type
